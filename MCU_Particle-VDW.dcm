@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Photon
+D Photon MCU with Bottom Layer Pins
+K Particle, Photon, MCU
+$ENDCMP
+#
+#End Doc Library
