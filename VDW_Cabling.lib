@@ -8,7 +8,8 @@ F0 "HOUSING" 0 0 50 H I C CNN
 F1 "HOUSING_FEMALE_01_03" 0 -200 50 H V C CNN
 F2 "" -50 50 50 H I C CNN
 F3 "" -50 50 50 H I C CNN
-F4 "J?" 0 200 50 H V C CNN "Mating Connector"
+F4 "No" 200 200 50 H I C CNN "Anchor"
+F5 "J?" 0 200 50 H V C CNN "Label"
 DRAW
 S -100 -150 50 150 0 1 10 N
 X 1 1 0 -100 50 R 50 50 0 1 B
@@ -24,7 +25,8 @@ F0 "HOUSING" 0 0 50 H I C CNN
 F1 "HOUSING_MALE_01_03" -50 -200 50 H V C CNN
 F2 "" 0 50 50 H I C CNN
 F3 "" 0 50 50 H I C CNN
-F4 "J?" -50 200 50 H V C CNN "Mating Connector"
+F4 "No" 0 0 50 H I C CNN "Anchor"
+F5 "J?" -50 200 50 H V C CNN "Label"
 DRAW
 S -100 -150 50 150 0 1 10 N
 X 1 1 -100 -100 0 L 50 50 0 1 B
@@ -40,10 +42,11 @@ F0 "HS" 0 0 50 H I C CNN
 F1 "HeatShrink" 0 0 50 H I C CNN
 F2 "" 650 300 50 H I C CNN
 F3 "" 650 300 50 H I C CNN
-F4 "1\"" 0 0 50 H I C CNN "Length"
-F5 "Unspecified" 0 0 50 H I C CNN "Diameter"
-F6 "Black" 0 0 50 H I C CNN "Color"
-F7 "Lap" 0 0 50 H I C CNN "Joint Type"
+F4 "No" 500 500 50 H I C CNN "Anchor"
+F5 "1\"" 0 0 50 H I C CNN "Length"
+F6 "Unspecified" 0 0 50 H I C CNN "Diameter"
+F7 "Black" 0 0 50 H I C CNN "Color"
+F8 "Lap" 0 0 50 H I C CNN "Joint Type"
 DRAW
 P 2 0 1 0 -100 20 50 20 N
 P 2 0 1 0 0 0 -50 0 N
@@ -60,7 +63,8 @@ F0 "TERMINAL" 0 200 50 H I C CNN
 F1 "TERMINAL_FEMALE" 0 200 50 H I C CNN
 F2 "" 450 350 50 H I C CNN
 F3 "" 450 350 50 H I C CNN
-F4 ".060" 0 200 50 H I C CNN "Wire-Strip"
+F4 "No" 200 400 50 H I C CNN "Anchor"
+F5 ".060" 0 200 50 H I C CNN "Wire-Strip"
 DRAW
 A 10 0 20 901 -901 0 1 0 N 10 20 10 -20
 P 2 0 1 0 10 -20 50 -20 N
@@ -77,7 +81,8 @@ F0 "TERMINAL" 200 200 50 H I C CNN
 F1 "TERMINAL_MALE" 200 200 50 H I C CNN
 F2 "" 450 350 50 H I C CNN
 F3 "" 450 350 50 H I C CNN
-F4 ".060" 200 200 50 H I C CNN "Wire-Strip"
+F4 "No" 400 400 50 H I C CNN "Anchor"
+F5 ".060" 200 200 50 H I C CNN "Wire-Strip"
 DRAW
 S -40 10 0 -10 0 1 0 F
 P 2 0 1 26 -40 0 -30 0 N
@@ -93,12 +98,13 @@ F0 "W" 0 0 50 H I C CNN
 F1 "Wire" 0 0 50 H I C CNN
 F2 "" -100 -50 50 H I C CNN
 F3 "" 0 50 50 H I C CNN
-F4 "Default" 0 40 25 H V C CNN "Wire-Color"
-F5 "6\"" 315 40 25 H V R CNN "Wire-Length"
-F6 "24 AWG" -315 40 25 H V L CNN "Wire-Gauge"
-F7 "7/32" 0 0 50 H I C CNN "Wire-Strand"
-F8 "PVC" 0 0 50 H I C CNN "Wire-Insulation Material"
-F9 ".016\"" 0 0 50 H I C CNN "Wire-Insulation Size"
+F4 "No" 700 700 50 H V C CNN "Anchor"
+F5 "Default" 0 40 25 H V C CNN "Wire-Color"
+F6 "6\"" 315 40 25 H V R CNN "Wire-Length"
+F7 "24 AWG" -315 40 25 H V L CNN "Wire-Gauge"
+F8 "7/32" 0 0 50 H I C CNN "Wire-Strand"
+F9 "PVC" 0 0 50 H I C CNN "Wire-Insulation Material"
+F10 ".016\"" 0 0 50 H I C CNN "Wire-Insulation Size"
 DRAW
 P 2 0 1 35 -300 0 300 0 N
 X ~ 1 -400 0 100 R 50 50 1 1 B
