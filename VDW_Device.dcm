@@ -12,6 +12,11 @@ K resettable fuse PTC PPTC polyfuse polyswitch
 F ~
 $ENDCMP
 #
+$CMP SW_DPST_RGBC
+D Single Pole Single Throw (SPST) switch with LED, generic
+K switch SPST LED OFF-ON
+$ENDCMP
+#
 $CMP SW_SPST_RGBC
 D Single Pole Single Throw (SPST) switch with LED, generic
 K switch SPST LED OFF-ON
