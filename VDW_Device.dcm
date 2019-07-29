@@ -25,7 +25,6 @@ $ENDCMP
 $CMP SW_TPST
 D Triple Pole Single Throw (TPST) Switch
 K switch triple three triple-pole single-throw OFF-ON
-F ~
 $ENDCMP
 #
 #End Doc Library
