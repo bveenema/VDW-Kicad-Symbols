@@ -1,3 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Motor_AC_Teknic
+D AC Motor
+K AC Motor
+F ~
+$ENDCMP
+#
+$CMP VXXX-J-TRA22-RA22
+D Unitronics PLC with integrated HMI
+K V130, V350, V430, PLC, HMI,  Unitronics
+$ENDCMP
+#
 #End Doc Library
