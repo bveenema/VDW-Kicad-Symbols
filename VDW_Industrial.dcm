@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AAD010100
+D Panasonic Impulse Heat Controller with PLC
+K PLC, Heat Controller, Panasonic
+$ENDCMP
+#
 $CMP Motor_AC_Teknic
 D AC Motor
 K AC Motor
