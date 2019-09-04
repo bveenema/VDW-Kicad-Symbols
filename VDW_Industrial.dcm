@@ -5,6 +5,12 @@ D Panasonic Impulse Heat Controller with PLC
 K PLC, Heat Controller, Panasonic
 $ENDCMP
 #
+$CMP Jumper_Terminal
+D Jumper, normally closed, small symbol
+K jumper link bridge NC
+F ~
+$ENDCMP
+#
 $CMP Terminal_Block_02x04
 D Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
 K screw terminal

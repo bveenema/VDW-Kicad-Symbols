@@ -40,6 +40,25 @@ X Y5 9 650 -300 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Jumper_Terminal
+#
+DEF ~Jumper_Terminal JP 0 30 N N 1 F N
+F0 "JP" 0 80 50 H I C CNN
+F1 "Jumper_Terminal" 0 150 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ SolderJumper*Bridged*
+$ENDFPLIST
+DRAW
+A 0 -10 57 450 1350 0 1 0 N 40 30 -40 30
+C -50 0 20 0 1 0 N
+C 50 0 20 0 1 0 N
+X 1 1 -50 -50 28 U 50 50 0 1 P
+X 2 2 50 -50 28 U 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
 # Linear_Solenoid
 #
 DEF Linear_Solenoid U 0 40 Y Y 1 F N
