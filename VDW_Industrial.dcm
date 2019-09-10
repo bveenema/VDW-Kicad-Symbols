@@ -11,6 +11,11 @@ K jumper link bridge NC
 F ~
 $ENDCMP
 #
+$CMP SMXX-J-TA22-RA22
+D Unitronics PLC with integrated HMI
+K SM35, SM43, SM70, PLC, HMI,  Unitronics
+$ENDCMP
+#
 $CMP Terminal_Block_02x04
 D Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
 K screw terminal
