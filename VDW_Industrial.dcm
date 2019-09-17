@@ -11,6 +11,12 @@ K jumper link bridge NC
 F ~
 $ENDCMP
 #
+$CMP MLA10641
+D Anaheim Automation Stepper Driver, Single Channel
+K Stepper Driver, Anaheim
+F https://www.anaheimautomation.com/manuals/stepper/L010460%20-%20MLA10641%20Users%20Guide.pdf
+$ENDCMP
+#
 $CMP SMXX-J-TA22-RA22
 D Unitronics PLC with integrated HMI
 K SM35, SM43, SM70, PLC, HMI,  Unitronics
