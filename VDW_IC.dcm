@@ -1,9 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP TB67H400XXX
-D Driver IC for Dual DC motor, SSOP-24
+$CMP TB67H400AFNG
+D Driver IC for Dual DC motor, 6A, 47V SDIP-24
 K H-bridge motor driver
-F https://toshiba.semicon-storage.com/us/product/linear/motordriver/detail.TB6612FNG.html
+F http://static6.arrow.com/aropdfconversion/9f5c26bf834f6427df6e0c4c8e2c422193a28053/987docget.jspdid14795prodnametb67h400afng.jspdid14795prodnametb67h40.pdf
+$ENDCMP
+#
+$CMP TB67H400ANG
+D Driver IC for Dual DC motor, 6A, 47V SDIP-24
+K H-bridge motor driver
+F http://static6.arrow.com/aropdfconversion/9f5c26bf834f6427df6e0c4c8e2c422193a28053/987docget.jspdid14795prodnametb67h400afng.jspdid14795prodnametb67h40.pdf
 $ENDCMP
 #
 #End Doc Library
