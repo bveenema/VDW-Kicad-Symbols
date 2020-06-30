@@ -1,13 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Argon
+D Argon MCU
+K Particle, Xenon, MCU
+$ENDCMP
+#
+$CMP Boron
+D Boron MCU
+K Particle, Boron, MCU
+$ENDCMP
+#
 $CMP Photon
 D Photon MCU with Bottom Layer Pins
 K Particle, Photon, MCU
 $ENDCMP
 #
 $CMP Xenon
-D Photon MCU with Bottom Layer Pins
-K Particle, Photon, MCU
+D Xenon MCU
+K Particle, Xenon, MCU
 $ENDCMP
 #
 #End Doc Library
