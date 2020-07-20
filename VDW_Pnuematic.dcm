@@ -1,3 +1,68 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FRL_Gauge_Large
+D Filter Regulator Lubricator with Gauge
+K Filter, Regulator, Lubricator, Gauge
+$ENDCMP
+#
+$CMP FRL_Gauge_Small
+D Filter Regulator Lubrictor with Gauge
+K filter, regulator, lubricator, gauge
+$ENDCMP
+#
+$CMP FRL_Large
+D Filter Regulator Lubricator
+K Filter, Regulator, Lubricator
+$ENDCMP
+#
+$CMP FRL_Small
+D Filter Regulator Lubrictor with Gauge
+K filter, regulator, lubricator, gauge
+$ENDCMP
+#
+$CMP SolenoidValve_3-2_SpringReturn
+D 3/2 Solenoid Valve with Spring Return
+K solenoid, valve, 3/2, spring return
+$ENDCMP
+#
+$CMP SolenoidValve_3-3_ClosedCenter
+D 3/2 Solenoid Valve with Spring Return
+K solenoid, valve, 3/2, spring return
+$ENDCMP
+#
+$CMP SolenoidValve_4-2_SpringReturn
+D 3/2 Solenoid Valve with Spring Return
+K solenoid, valve, 3/2, spring return
+$ENDCMP
+#
+$CMP SolenoidValve_4-3_ClosedCenter
+D 3/2 Solenoid Valve with Spring Return
+K solenoid, valve, 3/2, spring return
+$ENDCMP
+#
+$CMP SolenoidValve_4-3_ExhaustCenter
+D 3/2 Solenoid Valve with Spring Return
+K solenoid, valve, 3/2, spring return
+$ENDCMP
+#
+$CMP SolenoidValve_5-2_SpringReturn
+D 3/2 Solenoid Valve with Spring Return
+K solenoid, valve, 3/2, spring return
+$ENDCMP
+#
+$CMP SolenoidValve_5-3_ClosedCenter
+D 3/2 Solenoid Valve with Spring Return
+K solenoid, valve, 3/2, spring return
+$ENDCMP
+#
+$CMP SolenoidValve_5-3_ExhaustCenter
+D 3/2 Solenoid Valve with Spring Return
+K solenoid, valve, 3/2, spring return
+$ENDCMP
+#
+$CMP SolenoidValve_5-3_PressureCenter
+D 3/2 Solenoid Valve with Spring Return
+K solenoid, valve, 3/2, spring return
+$ENDCMP
+#
 #End Doc Library
